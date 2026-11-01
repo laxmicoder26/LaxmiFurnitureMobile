@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/drawable_chair.png.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/drawable/chair.png"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/drawable_bg_success_circle.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/drawable/bg_success_circle.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_activity_admin_list.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/activity_admin_list.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/drawable_placeholder.png.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/drawable/placeholder.png"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_activity_product_detail.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/drawable_bg_rounded_primary_outline.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/drawable/bg_rounded_primary_outline.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_item_product.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/drawable_bg_rounded_white.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/drawable/bg_rounded_white.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/drawable_bg_chip_selected.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/drawable/bg_chip_selected.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_activity_cart.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/menu_drawer_menu.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/drawable_bg_chip_unselected.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/drawable/bg_chip_unselected.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_activity_admin_edit.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/activity_admin_edit.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/drawable_wardrobe.png.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/drawable/wardrobe.png"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/drawable_bg_rounded_primary.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/drawable/bg_rounded_primary.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/drawable_sofa.png.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/drawable/sofa.png"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/drawable_bg_rounded_accent.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/drawable/bg_rounded_accent.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_activity_order_history.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/activity_order_history.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_item_order.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/item_order.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_activity_host_dashboard.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/activity_host_dashboard.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_item_admin_product.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/item_admin_product.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/drawable_pill_outline.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/drawable/pill_outline.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/drawable_circle_white.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/drawable/circle_white.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_activity_login.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_nav_header.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_activity_wishlist.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/activity_wishlist.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_item_sale.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/item_sale.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_item_wishlist.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/item_wishlist.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/mipmap_ic_launcher.png.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/mipmap/ic_launcher.png"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_activity_order_success.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/activity_order_success.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_item_cart.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/drawable_bg_badge_red.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/drawable/bg_badge_red.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_activity_checkout.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/activity_checkout.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_activity_edit_profile.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.furnitureshop.mobile.app-merged_res-38:/drawable_bed.png.flat",
+        "source": "com.furnitureshop.mobile.app-main-40:/drawable/bed.png"
+    }
+]
